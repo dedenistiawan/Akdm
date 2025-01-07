@@ -1,0 +1,48 @@
+---
+title: "Algoritma Klasifikasi Data Mining: Teori, Metode, dan Aplikasi dengan R"
+author: "Deden Istiawan"
+date: "2024-12-19"
+---
+
+# Kata Pengantar
+
+
+Puji syukur kami panjatkan kepada Tuhan Yang Maha Esa atas selesainya penulisan buku berjudul *Algoritma Klasifikasi Data Mining: Teori, Metode, dan Aplikasi dengan R*. Buku ini ditujukan bagi pembaca yang ingin memahami konsep, metode, dan aplikasi *data mining* secara praktis menggunakan perangkat lunak R.
+
+Seiring dengan pesatnya perkembangan teknologi dan data, *data mining* telah menjadi salah satu bidang yang sangat penting dalam berbagai disiplin ilmu. Proses menggali informasi dari kumpulan data besar membutuhkan alat yang tidak hanya kuat tetapi juga fleksibel. R, sebagai salah satu bahasa pemrograman yang populer di dunia analisis data, menawarkan beragam paket dan fungsi yang memungkinkan pengguna untuk menerapkan teknik *data mining* secara efisien.
+
+Buku ini dirancang untuk membantu pembaca, baik dari kalangan akademisi, profesional, maupun pelajar, memahami langkah-langkah praktis dalam melakukan analisis data menggunakan R. Dengan pendekatan yang sistematis dan disertai dengan contoh-contoh kasus nyata, diharapkan pembaca dapat dengan mudah mengikuti dan menerapkan konsep-konsep yang disampaikan.
+
+Penulisan buku ini tidak lepas dari dukungan berbagai pihak, baik secara langsung maupun tidak langsung. Kami menyampaikan terima kasih yang sebesar-besarnya kepada semua pihak yang telah memberikan kontribusi, baik dalam bentuk masukan, dukungan teknis, maupun semangat yang tak henti-hentinya.
+
+Kami menyadari bahwa buku ini masih jauh dari sempurna. Oleh karena itu, kami sangat terbuka terhadap kritik dan saran untuk penyempurnaan di masa mendatang. Harapan kami, buku ini dapat menjadi referensi yang bermanfaat dan memberikan kontribusi positif bagi pengembangan ilmu *data mining* di Indonesia.
+
+Selamat membaca dan semoga buku ini dapat menjadi inspirasi dan panduan yang berharga.
+
+## Pencarian
+
+Jika Anda mencari sesuatu yang spesifik, gunakan menu atau fitur pencarian dengan ikon kaca pembesar di bagian atas layar.
+
+## Dukungan
+
+Jika Anda ingin menunjukkan apresiasi Anda dengan memberikan donasi, Anda dipersilakan melakukannya di sini:
+
+<a href='https://lynk.id/' target='_blank'><img src="lynk.png" height="36" style="border:0px;height:20px;"/></a>
+
+## Ucapan Terimakasih
+
+Dengan penuh rasa syukur, saya ingin menyampaikan terima kasih kepada semua pihak yang telah memberikan dukungan, baik secara langsung maupun tidak langsung, dalam proses penulisan buku ini. Terima kasih yang sebesar-besarnya saya haturkan kepada keluarga saya atas doa, cinta, dan dukungan tanpa henti. Kepada kolega dan rekan kerja, terima kasih atas diskusi, masukan, dan motivasi yang sangat berarti. Semoga buku ini dapat memberikan manfaat bagi banyak orang dan menjadi kontribusi kecil saya dalam pengembangan ilmu pengetahuan.
+
+## License
+
+Situs web/buku ini dapat digunakan secara gratis dan dilisensikan di bawah [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/){target="\"blank"}.
+
+## Statistik Pencarian
+
+Fitur live statistik pengunjung yang terintegrasi dengan [Plausible Analytics](https://plausible.io/) memungkinkan Anda untuk memantau aktivitas pengunjung situs secara real-time. Data yang ditampilkan meliputi jumlah pengunjung saat ini, halaman yang sedang dibuka, sumber lalu lintas, lokasi geografis pengunjung, serta perangkat yang digunakan.
+
+Keunggulan Plausible adalah tampilannya yang sederhana, tanpa pelacakan invasif, sehingga tetap menjaga privasi pengunjung. Statistik yang dihasilkan membantu Anda memahami pola kunjungan dan mengoptimalkan strategi konten berdasarkan data aktual, tanpa perlu khawatir melanggar regulasi privasi seperti GDPR.
+
+## Tentang Saya
+
+Hi there, I'm Deden lecture and data analyst specializing in data mining and data processing with 5+ years' experience. Advanced knowledge on R, Tableau, Google Data Studio and Ms. Excel. Feel free to say "Hi!" on [X](https://x.com/DedenIstiawan) or [LinkedIn](https://www.linkedin.com/in/deden-istiawan-149806255/).
